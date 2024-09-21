@@ -1,0 +1,27 @@
+# Dependencias de Go
+vendor/
+
+# Archivos generados por el compilador
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Directorios de salida de compilaciones
+bin/
+build/
+
+# Archivos de configuración del editor
+*.swp
+*.swo
+*.DS_Store
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales o de caché
+*.log
+*.tmp
