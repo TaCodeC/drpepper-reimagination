@@ -6,8 +6,6 @@ Este proyecto es una re-imaginación creativa y un rediseño para Dr. Pepper, en
 
 ## 📋 Requisitos
 
-Este archivo contiene los requisitos y las tecnologías necesarias para ejecutar correctamente el proyecto “Multimedia 2024 Rebranding Re-imagination Dr. Pepper”.
-
 🔧 Tecnologías Usadas
 
 	•	HTML5: Estructura del sitio web.
